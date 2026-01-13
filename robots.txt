@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://slopeonlinefree.github.io/sitemap.xml
